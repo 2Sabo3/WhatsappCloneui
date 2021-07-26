@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:whatsappcloneappui/chatmodal.dart';
-import '';
 
 class ChatScreen extends StatelessWidget {
   const ChatScreen({Key? key}) : super(key: key);
